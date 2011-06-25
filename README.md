@@ -8,4 +8,8 @@ To add add custom styles or behavior a blank file has been added [here](https://
 
 Any styles or javascript in those files will override picture show's default.
 
+Generate a local show after installing [g8](https://github.com/n8han/giter8#readme) with the following command
+
+    g8 softprops/picture-show
+
 Doug Tangren (softprops) 2011
