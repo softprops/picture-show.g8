@@ -15,4 +15,4 @@
 
 # One
 
-![pic](test.jpg "pics")
+![pic](/hello/test.jpg "pics")
