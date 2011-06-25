@@ -1,5 +1,5 @@
 {
-  "title": "$title$",
+  "title": "$name$",
   "sections": [
     "hello"
   ]
